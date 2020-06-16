@@ -555,6 +555,7 @@ func (p *Parser) process(args []string) error {
 		// we expand subcommands so it is better not to use a map)
 		spec := findOption(specs, opt)
 		if spec == nil {
+			continue
 			return fmt.Errorf("unknown argument %s", arg)
 		}
 		wasPresent[spec] = true
@@ -627,9 +628,9 @@ func (p *Parser) process(args []string) error {
 			positionals = positionals[1:]
 		}
 	}
-	if len(positionals) > 0 {
+	/*if len(positionals) > 0 {
 		return fmt.Errorf("too many positional arguments at '%s'", positionals[0])
-	}
+	}*/
 
 	// fill in defaults and check that all the required args were provided
 	for _, spec := range specs {
