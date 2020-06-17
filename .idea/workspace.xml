@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e36cd1f-7a52-4042-9449-c6844c9da753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parse.go" beforeDir="false" afterPath="$PROJECT_DIR$/parse.go" afterDir="false" />
-    </list>
+    <list default="true" id="5e36cd1f-7a52-4042-9449-c6844c9da753" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parse.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="628" column="9" lean-forward="true" selection-start-line="628" selection-start-column="9" selection-end-line="628" selection-end-column="9" />
+            <state relative-caret-position="371">
+              <caret line="630" column="31" lean-forward="true" selection-start-line="630" selection-start-column="31" selection-end-line="630" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -136,8 +133,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parse.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="628" column="9" lean-forward="true" selection-start-line="628" selection-start-column="9" selection-end-line="628" selection-end-column="9" />
+        <state relative-caret-position="371">
+          <caret line="630" column="31" lean-forward="true" selection-start-line="630" selection-start-column="31" selection-end-line="630" selection-end-column="31" />
         </state>
       </provider>
     </entry>
